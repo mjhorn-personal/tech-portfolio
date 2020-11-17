@@ -5,7 +5,7 @@ title: Projects
 Presidents Lab:
 Simple demonstration of scraping a duckduckgo api web search for a list of presidents of the United States, and then using pytest to check results.
 
-[GitHub link:](https://github.com/mjhorn-personal/presidents_lab):
+[GitHub link](https://github.com/mjhorn-personal/presidents_lab):
 
 Code for duckduckgo search
 ![Screenshot of presidents.py code](./assets/presidents.jpg)
