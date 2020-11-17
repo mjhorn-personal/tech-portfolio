@@ -2,13 +2,11 @@
 id: projects
 title: Projects
 ---
+Presidents Lab:
+Simple demonstration of scraping a duckduckgo api web search for a list of presidents of the United States, and then using pytest to check results.
 
-Embed any notable projects in this page.
+github link: [links](https://github.com/mjhorn-personal/presidents_lab):
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Screenshot of presidents.py code](./assets/presidents)
+![Screenshot of test_presidents.py code](./assets/test_presidents)
+![Screenshot of pytest results from travis ci](./assets/travis)
