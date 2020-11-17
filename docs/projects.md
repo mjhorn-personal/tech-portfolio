@@ -7,6 +7,6 @@ Simple demonstration of scraping a duckduckgo api web search for a list of presi
 
 github link: [links](https://github.com/mjhorn-personal/presidents_lab):
 
-![Screenshot of presidents.py code](./assets/presidents)
-![Screenshot of test_presidents.py code](./assets/test_presidents)
-![Screenshot of pytest results from travis ci](./assets/travis)
+![Screenshot of presidents.py code](./assets/presidents.jpg)
+![Screenshot of test_presidents.py code](./assets/test_presidents.jpg)
+![Screenshot of pytest results from travis ci](./assets/travis.jpg)
