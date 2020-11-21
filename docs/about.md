@@ -3,29 +3,19 @@ id: about
 title: About
 ---
 
-I am currently attending GHC20 (Grace Hopper Celebration 2020). I began this portfolio in a workshop and it is the greatest idea ever!
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I'm currently a student at Wake Technical Community College and I expect to graduate in December 2020 with a 
+A.S. in IT: Computer Programming and Development. 
 
-1. Your current position
-2. Organizations you're involved with
-3. Your personal and professional values
-4. Hobbies or fun facts
+Coursework has been focused on Python programming, testing and automation. Additional studies in database design and C++ programming.
 
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+> This portfolio is brand new and changing constantly. Check back frequently for more projects and updates.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Student
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
 
 ## Social Media
 
-See the bottom of my website pages.
